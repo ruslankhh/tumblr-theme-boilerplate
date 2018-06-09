@@ -1,0 +1,20 @@
+{
+  "name": "tumblr-theme-boilerplate",
+  "version": "1.0.0",
+  "description": "The boilerplate for tumblr theme with webpack.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslankhh/tumblr-theme-boilerplate.git"
+  },
+  "keywords": [
+    "tumblr",
+    "tumblr-theme",
+    "boilerplate"
+  ],
+  "author": "Ruslan Khusnetdinov <ruslankhh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruslankhh/tumblr-theme-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ruslankhh/tumblr-theme-boilerplate#readme"
+}
